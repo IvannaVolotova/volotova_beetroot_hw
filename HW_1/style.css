@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: linen;
+}
+.wrapper {
+    width: 800px;
+    height: 950px;
+    padding: 25px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+img {
+    width: 10%;
+    border-radius: 50%;
+}
+h1 {
+    font-size: 35px;
+}
+.info-name {
+    text-align: center;
+}
+
+.info-name p {
+    font-style: italic;
+}
+
+.info-links {
+    text-align: center;
+}
